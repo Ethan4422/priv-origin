@@ -1,0 +1,4 @@
+name: Origin
+version: '${project.version}'
+main: me.goodi.origin.Origin
+api-version: '1.20'

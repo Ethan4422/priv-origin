@@ -1,0 +1,4 @@
+name: Origin
+version: '1.0-SNAPSHOT'
+main: me.goodi.origin.Origin
+api-version: '1.20'
